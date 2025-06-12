@@ -13,7 +13,7 @@
 
 - 💬 Week 9 (Flask): **Build dynamic web applications using Python and Flask, including Finance, a stock trading simulator.**
 
-- 📫 Final Project: **A capstone project of my own design that applies everything I’ve learned.**
+- 📫 Final Project: **[A capstone project of my own design that applies everything I’ve learned.](https://www.youtube.com/watch?v=iNk8TnMyGJU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
