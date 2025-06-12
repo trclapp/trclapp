@@ -5,15 +5,15 @@
 
 - 🔭 Week 1–5 (C): [Projects like Cash, Credit, Mario, and Speller focus on algorithms, memory, and problem-solving in C.](https://github.com/code50/114439001/blob/70d324540b7f7946ae8e7c1926aaa341159c33d4/speller/dictionary.c)
 
-- 🌱 Week 8 (HTML, CSS, JavaScript): **Front-end web development with interactive pages.**
+- 🌱 Week 8 (HTML, CSS, JavaScript): [Front-end web development with interactive pages.](https://github.com/code50/114439001/blob/70d324540b7f7946ae8e7c1926aaa341159c33d4/filter-less/filter.c)
 
 - 👯 Week 6 (Python): [Transition into Python with projects that emphasize simplicity and readability, like DNA.](https://github.com/code50/114439001/blob/70d324540b7f7946ae8e7c1926aaa341159c33d4/dna/dna.py)
 
 - 🤝 Week 7 (SQL): [Database queries using SQL with Movies and Songs datasets.](https://github.com/code50/114439001/blob/70d324540b7f7946ae8e7c1926aaa341159c33d4/finance/app.py)
 
-- 💬 Week 9 (Flask): **Build dynamic web applications using Python and Flask, including Finance, a stock trading simulator.**
+- 💬 Week 9 (Flask): [Build dynamic web applications using Python and Flask, including Finance, a stock trading simulator.](https://github.com/code50/114439001/blob/70d324540b7f7946ae8e7c1926aaa341159c33d4/finance/helpers.py)
 
-- 📫 Final Project: **[A capstone project of my own design that applies everything I’ve learned.](https://www.youtube.com/watch?v=iNk8TnMyGJU)
+- 📫 Final Project: **A capstone project of my own design that applies everything I’ve learned. [Code](https://github.com/code50/114439001/blob/70d324540b7f7946ae8e7c1926aaa341159c33d4/project/static/styles.css) AND [Youtube Tutorial](https://www.youtube.com/watch?v=iNk8TnMyGJU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
